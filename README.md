@@ -23,6 +23,7 @@ implementación con su monitoreo y control (EP3).
 ├── informes/
 │   ├── EP1_Informe_Factibilidad.pdf
 │   ├── EP2_Plan_de_Proyecto.pdf
+│   ├── EP3_Informe_Implementacion_Monitoreo.pdf
 ├── presentaciones/
 │   ├── EP1_Presentacion.pdf
 │   └── EP2_Presentacion.pdf
